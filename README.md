@@ -1,4 +1,4 @@
-![logo](https://github.com/Bani69/bio/blob/main/Screenshot%202023-08-14%20133253.png)
+![logo](https://github.com/Bani69/bio/blob/main/Screenshot%202023-08-14%20133828.png)
 
 <h1 align="center">Hi 👋, I'm Bani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
