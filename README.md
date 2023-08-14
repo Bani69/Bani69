@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bani69&label=Profile%20views&color=0e75b6&style=flat" alt="bani69" /> </p>
 <img align="right" alt="coding" width="300" height="200" src="https://apexx77.github.io/website/images/pro.gif">
- 🌱 I’m currently learning **ReactJs, firebase**
+ 🌱 I’m currently learning ReactJs, firebase
 
  📫 How to reach me **fabrojiovani1@gmail.com**
 
