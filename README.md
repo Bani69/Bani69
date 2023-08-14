@@ -1,7 +1,7 @@
 ![logo](https://github.com/Bani69/bio/blob/main/Screenshot%202023-08-14%20133828.png)
 
 <h1 align="center">Hi 👋, I'm Bani</h1>
-<h3 align="center">A passionate Student from philippines/h3>
+<h3 align="center">A passionate Student from philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bani69&label=Profile%20views&color=0e75b6&style=flat" alt="bani69" /> </p>
 
