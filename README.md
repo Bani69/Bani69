@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bani69&label=Profile%20views&color=0e75b6&style=flat" alt="bani69" /> </p>
 
-- 🌱 I’m currently learning **ReactJs, firebase**
+ 🌱 I’m currently learning **ReactJs, firebase**
 
-- 📫 How to reach me **fabrojiovani1@gmail.com**
+ 📫 How to reach me **fabrojiovani1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
