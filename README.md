@@ -1,7 +1,7 @@
 ![logo](https://github.com/Bani69/bio/blob/main/Screenshot%202023-08-14%20133828.png)
 
 <h1 align="center">Hi 👋, I'm Bani</h1>
-<h3 align="center">kung di papalarin magbabantay ng comp shop</h3>
+<h3 align="center">kung di papalarin magbabantay nalang ng comp shop</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bani69&label=Profile%20views&color=0e75b6&style=flat" alt="bani69" /> </p>
 <img align="right" alt="coding" width="300" height="200" src="https://apexx77.github.io/website/images/pro.gif">
